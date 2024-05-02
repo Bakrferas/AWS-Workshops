@@ -1,4 +1,3 @@
-![bakrs proof](https://github.com/Bakrferas/AWS-Workshops/assets/75170453/73cb54d1-6760-4c2d-8edb-56313e8e8f70)
 
 
 
