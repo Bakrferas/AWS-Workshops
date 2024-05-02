@@ -1,4 +1,9 @@
+![bakrs proof](https://github.com/Bakrferas/AWS-Workshops/assets/75170453/73cb54d1-6760-4c2d-8edb-56313e8e8f70)
+
+
+
 # wildrydes-site
+
 
 ## Build a Serverless Web Application ##
 
@@ -22,4 +27,5 @@ The workshop solution uses the following AWS services:
 * AWS Lambda - provide backend process for handling requests from your web application, i.e. function that is invoked whebver a user requests a unicorn to be sent to a location of his/er choice.  The function will select a unicorn from the fleet, record the request in a DynamoDB table and then respond to the front-end application with details about the unicorn being dispatched.
 * Amazon API Gateway - makes it easy for developers to create, maintain, and secure APIs.  It's used to expose the Lambda function built as a RESTful API.
 * Amazon S3 - object storage for hosting static web site content (HTML, CSS, JavaScript, images and other files).
-* Amazon DynamoDB - NoSQL database service used to provide a table to record the unicorn requests in a DynamoDB table.
+* Amazon DynamoDB - NoSQL database service used to provide a table to record the unicorn requests in a DynamoDB table.</br>
+
